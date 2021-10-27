@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-(static/DH9L7zNXYAIver5.jpeg)
+![Owl looking at you](static/DH9L7zNXYAIver5.jpeg)
 
 <!--
 **Zyanation/Zyanation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
