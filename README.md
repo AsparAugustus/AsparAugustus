@@ -41,7 +41,8 @@ Interested in Python, Solidity, Algorithmic trading.
 
  <ul>
     <li><a href="https://its-stonks-time.herokuapp.com/" target="_blank" ><b>Stock Trading Application</b></a></li>
-    Stock trading application for users to buy, sell stocks listed on NASDAQ with mock funds.
+    Stock trading application for users to buy and sell stocks listed on NASDAQ with mock funds, stock data is fetched via IEX's API,
+    where real-time profits and losses are displayed on the portfolio.
 </ul>
 <br>
 <br>
