@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<img src="static/DH9L7zNXYAIver5.jpeg" width=30% height=30%>
+
+
+
 <!--
 **Zyanation/Zyanation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
