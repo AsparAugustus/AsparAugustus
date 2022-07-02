@@ -37,13 +37,13 @@ Interested in Python, Solidity, Algorithmic trading.
 </div> 
 <br>
 <br> 
-## Web3 Projects
+## 🌐 Web3 Projects
 <br>
 <br>
 
  <ul>
     <li><a href="https://isomorph.loans" target="_blank" ><b>Isomorph Protocol (On-going)</b></a></li>
-    Frontend for the decentralised lending protocol, current it is set up on the Kovan test net,
+    Frontend for the decentralised lending protocol, current it is set up on the Kovan test net,  
     with an intuitive and minimalistic UI for loans management.
     Now with dark mode.
 </ul>
@@ -51,7 +51,8 @@ Interested in Python, Solidity, Algorithmic trading.
 
  <ul>
     <li><a href="https://its-stonks-time.herokuapp.com/" target="_blank" ><b>Stock Trading Application</b></a></li>
-    Stock trading application for users to buy and sell stocks listed on NASDAQ with mock funds, stock data is fetched via IEX's API,
+    Stock trading application for users to buy and sell stocks listed on NASDAQ with mock funds, 
+    stock data is fetched via IEX's API,
     where real-time profits and losses are displayed on the portfolio.
 </ul>
 <br>
