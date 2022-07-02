@@ -48,6 +48,8 @@ Interested in Python, Solidity, Algorithmic trading.
     Now with dark mode.
 </ul>
 ## 🌐 Web Development Projects
+<br>
+<br>
 
  <ul>
     <li><a href="https://its-stonks-time.herokuapp.com/" target="_blank" ><b>Stock Trading Application</b></a></li>
