@@ -5,7 +5,7 @@
 <h3>
  <br>
 Welcome to my Githhub profile, I am a software developer based in the UK.
-Interested in Python, Solidity, Algorithmic trading.
+Interested in DeFi, Solidity, Algorithmic trading.
 </h3>
 <br>
 <br>
@@ -15,7 +15,6 @@ Interested in Python, Solidity, Algorithmic trading.
 <div id="skill_stack">
 <!--Image sourced from https://dribbble.com/shots/4171367-Coding-Freak#-->
 
-<img alt="Night Coding" height="120px" src="static/coding.gif" align="right"/>
 
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)&nbsp;
 ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity&logoColor=007ACC)&nbsp;
