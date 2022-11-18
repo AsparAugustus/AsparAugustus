@@ -42,7 +42,7 @@ Interested in DeFi, Solidity, Algorithmic trading.
 
  <ul>
     <li><a href="https://isomorph.loans" target="_blank" ><b>Isomorph Protocol (On-going)</b></a></li>
-    Frontend for the decentralised lending protocol, current it is set up on the Kovan test net,  
+    Frontend for the decentralised lending protocol, current it is set up on the Optimism Goerli test net,  
     with an intuitive and minimalistic UI for loans management.
     Now with dark mode.
 </ul>
