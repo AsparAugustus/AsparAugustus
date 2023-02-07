@@ -15,23 +15,51 @@ Interested in DeFi, Solidity, Algorithmic trading.
 <div id="skill_stack">
 <!--Image sourced from https://dribbble.com/shots/4171367-Coding-Freak#-->
 
-
+ Languages
+![Javascript](https://img.shields.io/badge/Javascript-05122A?style=flat&logo=Javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)&nbsp;
 ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity&logoColor=007ACC)&nbsp;
 ![C](https://img.shields.io/badge/C-05122A?style=flat&logo=C)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![PostgresQL](https://img.shields.io/badge/-PostgresQL-05122A?style=flat&logo=PostgresQL)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite3-05122A?style=flat&logo=SQLite)&nbsp;
-![Pandas](https://img.shields.io/badge/Pandas-05122A?style=flat&logo=Pandas)&nbsp;
-![Javascript](https://img.shields.io/badge/Javascript-05122A?style=flat&logo=Javascript)&nbsp;
+
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+ 
+ Database
+ 
+![PostgresQL](https://img.shields.io/badge/-PostgresQL-05122A?style=flat&logo=PostgresQL)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite3-05122A?style=flat&logo=SQLite)&nbsp;
+ 
+ Frameworks
+ 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![Heroku](https://img.shields.io/badge/Heroku-05122A?style=flat&logo=heroku&logoColor=007ACC)&nbsp;
+ 
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-05122A?style=flat&logo=Pandas)&nbsp;
+ 
+
+ 
+ Saas
+ ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+ ![Heroku](https://img.shields.io/badge/Heroku-05122A?style=flat&logo=heroku&logoColor=007ACC)&nbsp;
+ ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+ 
+ Version Control
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+ 
+ Others
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+ 
+ 
 
 </div> 
 <br>
