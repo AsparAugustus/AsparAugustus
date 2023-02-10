@@ -82,13 +82,25 @@ Interested in DeFi, Solidity, Algorithmic trading.
 <br>
 
  <ul>
-    <li><a href="https://its-stonks-time.herokuapp.com/" target="_blank" ><b>Stock Trading Application</b></a></li>
+    <li><a href="https://its-stonks-time.herokuapp.com/" target="_blank" ><b>Stock Trading Application (Down) </b></a></li>
     Stock trading application for users to buy and sell stocks listed on NASDAQ with mock funds, 
     stock data is fetched via IEX's API,
     where real-time profits and losses are displayed on the portfolio.
 </ul>
 <br>
 <br>
+
+ <ul>
+    <li><a href="https://its-stonks-time.herokuapp.com/" target="_blank" ><b>Stock Trading Application (Down) </b></a></li>
+    Stock trading application for users to buy and sell stocks listed on NASDAQ with mock funds, 
+    stock data is fetched via IEX's API,
+    where real-time profits and losses are displayed on the portfolio.
+</ul>
+
+ <ul>
+    <li><a href="[https://main--golden-bublanina-50ad8c.netlify.app/" target="_blank" ><b>Monstercat CSS Demo</b></a></li>
+    Music promotion webpage, made with NextJS and plain CSS
+</ul>
 
 ## 📈 Github Stats
 <br>
