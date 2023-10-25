@@ -65,30 +65,31 @@ Interested in DeFi, Solidity, Algorithmic trading.
  
 
 </div> 
-<br>
 <br> 
-### 🌐 Web3 Projects
-<br>
-<br>
+
+### 🌐 AI Projects
 
  <ul>
-    <li><a href="https://isomorph.loans" target="_blank" ><b>Isomorph Protocol (On-going)</b></a></li>
+    <li><a href="https://utopiaAI.world" target="_blank" ><b>UtopiaAI (Active) </b></a></li>
+    UtopiaAI is an exhilarating text-based RPG game powered by AI. Immerse yourself in a rich and immersive world where your choices shape the story. Engage in captivating conversations, experience turn-based combat, and navigate 	through morally complex situations. Prepare for an unparalleled gaming experience where the power of AI brings the world to life, offering endless possibilities and adventures.
+</ul>
+
+### 🌐 Web3 Projects
+
+ <ul>
+    <li><a href="https://isomorph.loans" target="_blank" ><b>Isomorph Protocol (No longer maintained)</b></a></li>
     Frontend for the decentralised lending protocol, current it is set up on the Optimism Goerli test net,  
     with an intuitive and minimalistic UI for loans management.
     Now with dark mode.
 </ul>
-### 🌐 Web Development Projects
-<br>
-<br>
 
+### 🌐 Web Development Projects
  <ul>
     <li><a href="https://its-stonks-time.herokuapp.com/" target="_blank" ><b>Stock Trading Application (Down) </b></a></li>
     Stock trading application for users to buy and sell stocks listed on NASDAQ with mock funds, 
     stock data is fetched via IEX's API,
     where real-time profits and losses are displayed on the portfolio.
 </ul>
-<br>
-
  <ul>
     <li><a href="https://main--golden-bublanina-50ad8c.netlify.app/" target="_blank" ><b>Monstercat CSS Demo (On-going) </b></a></li>
     Music promotion webpage, made with NextJS and plain CSS
