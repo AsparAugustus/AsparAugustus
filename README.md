@@ -67,14 +67,13 @@ Interested in DeFi, Solidity, Algorithmic trading.
 </div> 
 <br> 
 
-### 🌐 AI Projects
+### 🌐 Web3 Projects
 
  <ul>
-    <li><a href="https://utopiaAI.world" target="_blank" ><b>UtopiaAI (Active) </b></a></li>
-    UtopiaAI is an exhilarating text-based RPG game powered by AI. Immerse yourself in a rich and immersive world where your choices shape the story. Engage in captivating conversations, experience turn-based combat, and navigate 	through morally complex situations. Prepare for an unparalleled gaming experience where the power of AI brings the world to life, offering endless possibilities and adventures.
+    <li><a href="https://degen.central.sh" target="_blank" ><b>Degen Central</b></a></li>
+    Launch memecoins without liquidity - essentially an on-chain casino, high-octane, 5-second charts.
+	Coming to Fantom and your local neighbourhood.
 </ul>
-
-### 🌐 Web3 Projects
 
  <ul>
     <li><a href="https://isomorph.loans" target="_blank" ><b>Isomorph Protocol (No longer maintained)</b></a></li>
@@ -82,6 +81,15 @@ Interested in DeFi, Solidity, Algorithmic trading.
     with an intuitive and minimalistic UI for loans management.
     Now with dark mode.
 </ul>
+
+### 🌐 AI Projects
+
+ <ul>
+    <li><a href="https://utopiaAI.world" target="_blank" ><b>UtopiaAI (Active) </b></a></li>
+    UtopiaAI is an exhilarating text-based RPG game powered by AI. Immerse yourself in a rich and immersive world where your choices shape the story. Engage in captivating conversations, experience turn-based combat, and navigate 	through morally complex situations. Prepare for an unparalleled gaming experience where the power of AI brings the world to life, offering endless possibilities and adventures.
+</ul>
+
+
 
 ### 🌐 Web Development Projects
  <ul>
