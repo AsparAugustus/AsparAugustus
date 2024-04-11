@@ -71,7 +71,7 @@ Interested in DeFi, Solidity, Algorithmic trading.
 
  <ul>
     <li><a href="https://degen.central.sh" target="_blank" ><b>Degen Central</b></a></li>
-    Launch memecoins without liquidity - essentially an on-chain casino, high-octane, 5-second charts.
+    Launch memecoins without liquidity - essentially an on-chain casino, high-octane, 5-second charts.</b>
 	Coming to Fantom and your local neighbourhood.
 </ul>
 
