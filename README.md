@@ -70,7 +70,7 @@ Interested in DeFi, Solidity, Algorithmic trading.
 ### 🌐 Web3 Projects
 
  <ul>
-    <li><a href="https://degen.central.sh" target="_blank" ><b>Degen Central</b></a></li>
+    <li><a href="https://degen.express" target="_blank" ><b>Degen Express</b></a></li>
     Launch memecoins without liquidity - essentially an on-chain casino, high-octane, 5-second charts.<br>
 	Coming to Fantom and your local neighbourhood.
 </ul>
